@@ -1,0 +1,12 @@
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\bin\Debug\Raketa.exe
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\bin\Debug\Raketa.exe.config
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.csproj.AssemblyReference.cache
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.Form1.resources
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.PostavkeForm.resources
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.Properties.Resources.resources
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.StartForm.resources
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.csproj.GenerateResource.cache
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.csproj.CoreCompileInputs.cache
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.exe
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\obj\Debug\Raketa.pdb
+C:\Users\Fran\RP3\Zadaca2\Raketa\Raketa\bin\Debug\Raketa.pdb
